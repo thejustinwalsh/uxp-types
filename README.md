@@ -1,6 +1,13 @@
 # UXP Types
 > Typescript definitions for the Adobe UXP API
 
+## Install
+```sh
+npm install -D uxp-types
+# or
+yarn add --dev uxp-types
+```
+
 ## Config
 ```js
 // tsconfig.json

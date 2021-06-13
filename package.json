@@ -1,0 +1,27 @@
+{
+  "name": "uxp-types",
+  "version": "0.1.0",
+  "description": "Typescript definitions and JSX IntrinsicElements for the Adobe UXP api",
+  "main": "uxp/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thejustinwalsh/uxp-types.git"
+  },
+  "keywords": [
+    "adobe",
+    "uxp",
+    "photoshop",
+    "xd",
+    "typescript",
+    "types",
+    "typings",
+    "react",
+    "jsx"
+  ],
+  "author": "Justin Walsh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thejustinwalsh/uxp-types/issues"
+  },
+  "homepage": "https://github.com/thejustinwalsh/uxp-types#readme"
+}

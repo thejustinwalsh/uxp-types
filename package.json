@@ -1,7 +1,7 @@
 {
   "name": "uxp-types",
   "version": "0.1.0",
-  "description": "Typescript definitions and JSX IntrinsicElements for the Adobe UXP api",
+  "description": "Typescript definitions for the Adobe UXP API",
   "main": "uxp/index.d.ts",
   "repository": {
     "type": "git",

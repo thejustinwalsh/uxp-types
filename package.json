@@ -1,6 +1,6 @@
 {
   "name": "uxp-types",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Typescript definitions for the Adobe UXP API",
   "main": "uxp/index.d.ts",
   "repository": {
